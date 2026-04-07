@@ -1,7 +1,12 @@
 aid: intl-fcstone
-url: https://raw.githubusercontent.com/api-evangelist/intl-fcstone/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/intl-fcstone/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.intl-fcstone.com
+description: >-
+  INTL FCStone is a financial services organization providing execution, risk management,
+  advisory services, market intelligence, and post-trade services across asset classes
+  and markets.

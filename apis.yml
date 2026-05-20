@@ -22,6 +22,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/INTLFCStone
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/intl-fcstone-ltd
   - type: Website
     url: https://www.intl-fcstone.com
   - type: Website

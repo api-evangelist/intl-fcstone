@@ -1,7 +1,9 @@
 ---
 title: As INTL FCStone Expands Globally, Company Selects Eventus ...
 url: https://www.prnewswire.com/news-releases/as-intl-fcstone-expands-globally-company-selects-eventus-systems-for-key-market-surveillance-technology-300859476.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"INTL FCStone" press release artificial intelligence'
 position: 1
 source: serpapi-google

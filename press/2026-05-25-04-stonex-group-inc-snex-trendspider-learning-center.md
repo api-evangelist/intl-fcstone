@@ -1,7 +1,9 @@
 ---
 title: StoneX Group Inc. ($SNEX) | TrendSpider Learning Center
 url: https://trendspider.com/learning-center/stonex-group-inc-snex/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"INTL FCStone" press release artificial intelligence'
 position: 4
 source: serpapi-google

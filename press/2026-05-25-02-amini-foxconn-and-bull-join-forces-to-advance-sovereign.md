@@ -1,7 +1,9 @@
 ---
 title: Amini, Foxconn and Bull Join Forces to Advance Sovereign ...
 url: https://www.africa-newsroom.com/press/amini-foxconn-and-bull-join-forces-to-advance-sovereign-ai-in-the-global-south?lang=en
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"INTL FCStone" press release artificial intelligence'
 position: 2
 source: serpapi-google

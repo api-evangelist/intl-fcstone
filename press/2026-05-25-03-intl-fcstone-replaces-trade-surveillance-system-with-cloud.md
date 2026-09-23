@@ -1,7 +1,9 @@
 ---
 title: INTL FCStone replaces trade surveillance system with cloud ...
 url: https://www.thetradenews.com/intl-fcstone-replaces-trade-surveillance-system-cloud-platform/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"INTL FCStone" press release artificial intelligence'
 position: 3
 source: serpapi-google

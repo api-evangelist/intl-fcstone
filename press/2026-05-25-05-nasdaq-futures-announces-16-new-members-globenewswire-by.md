@@ -1,7 +1,9 @@
 ---
 title: Nasdaq Futures Announces 16 New Members | GlobeNewswire by ...
 url: https://kommunikasjon.ntb.no/pressemelding/7358274/nasdaq-futures-announces-16-new-members?publisherId=4954260
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"INTL FCStone" press release artificial intelligence'
 position: 5
 source: serpapi-google
